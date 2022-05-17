@@ -9,13 +9,14 @@
 
 # This is copied from here: https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
 
-/.script/ @oshvartz @Amitbergman @ShaniFelig @laithhisham @oshezaf
-/DataConnectors/ @ashishsyal @NoamLandress @shschwar @haim-na @Tichandr
-/Hunting\ Queries/ @timbMSFT 
-/Notebooks/ @ianhelle
-/Parsers/ @ashishsyal @Tichandr
-/Playbooks/ @Yaniv-Shasha @sarah-yo @sreedharande @lior-tamir
-/Workbooks/ @ashishsyal @nazang @alexkarabas @Tichandr
-/Solutions/HoneyTokens/ @haneuvir
-/Solutions/SAP/ @udidekel @tamirkopitz
-/Solutions/ @ashishsyal @Tichandr
+/.script/ @oshvartz @Amitbergman @ShaniFelig @laithhisham @oshezaf @global_CodeOwners
+/DataConnectors/ @ashishsyal @NoamLandress @shschwar @haim-na @Tichandr @global_CodeOwners
+/Detections/ @timbMSFT @juliango2100 @global_CodeOwners
+/Hunting\ Queries/ @timbMSFT @global_CodeOwners
+/Notebooks/ @ianhelle @global_CodeOwners
+/Parsers/ @ashishsyal @Tichandr @global_CodeOwners
+/Playbooks/ @Yaniv-Shasha @sarah-yo @sreedharande @lior-tamir @global_CodeOwners
+/Workbooks/ @ashishsyal @nazang @alexkarabas @Tichandr @global_CodeOwners
+/Solutions/HoneyTokens/ @haneuvir @global_CodeOwners
+/Solutions/SAP/ @udidekel @tamirkopitz @global_CodeOwners
+/Solutions/ @ashishsyal @Tichandr @global_CodeOwners
