@@ -42,7 +42,7 @@
         "Facility": "user",
         "HostName": "10.10.10.10",
         "SeverityLevel": "notice",
-        "SyslogMessage": "22:28 rtp-f2-p1-leaf1 %LOG_LOCAL0-1-SYSTEM_MSG [E4210472][transition][info][sys] sent user message to syslog group:deadbeef-syslogGrp:This is a DEADBEEF SYSLOG TEST Message",
+        "SyslogMessage": "22:28 rtp-f2-p1-leaf1 %LOG_LOCAL0-1-SYSTEM_MSG [E4210472][transition][info][sys] sent user message to syslog group:deadbeef-syslogGrp:This is a DEADBEEF SYSLOG TEST Message ",
         "ProcessID": "",
         "HostIP": "10.10.10.10",
         "ProcessName": "<1025>",
